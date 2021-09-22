@@ -1,0 +1,24 @@
+{
+  "title": "Clima | Your reliable weather source",
+  "titleTemplate": "%s - miastudios inc",
+  "description": "stay updated on the weather conditions of your location and favorite places",
+  "openGraph": {
+    "title": "Clima | Your reliable weather source",
+    "description": "stay updated on the weather conditions of your location and favorite places",
+    "type": "website",
+    "locale": "en_IE",
+    "url": "https://nextjs.org/commerce",
+    "site_name": "clima",
+    "images": [{
+      "url": "/card.png",
+      "width": 800,
+      "height": 600,
+      "alt": "clima"
+    }]
+  },
+  "twitter": {
+    "handle": "@musahibrahimali",
+    "site": "https://www.github.com/musahibrahimali",
+    "cardType": "summary_large_image"
+  }
+}
