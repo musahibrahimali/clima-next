@@ -16,14 +16,6 @@
     background-repeat: none;
 }
 
-.tooltip {
-    @apply invisible absolute;
-}
-
-.has-tooltip:hover .tooltip {
-    @apply visible z-50;
-}
-
 /* custom scroll bar on chrome and latest version of firefox and supported browsers */
 ::-webkit-scrollbar {
     width: 5px;
